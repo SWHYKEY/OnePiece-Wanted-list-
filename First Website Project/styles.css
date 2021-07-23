@@ -1,0 +1,15 @@
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 2px solid black;
+  width: 400px;
+  background: darksalmon;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+
+img {
+  width: 400px;
+  padding; 10px;
+}
